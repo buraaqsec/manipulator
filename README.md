@@ -12,7 +12,7 @@ git clone https://github.com/buraaqsecsec/manipulator.git
 cd manipulator
 sudo pip3 install -r requirements.txt
 sudo chmod +x manipulator.py
-python3 maniputor.py -h
+python3 manipulator.py -h
 ```
 
 ## Usage
